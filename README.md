@@ -1,3 +1,3 @@
 # football-quiz
  
-Hello guys, welcome to my 2nd repository. this is a quiz based on your football knowledge as you guys know im a big football fan and this test will check your knowledge on some basic general football trivia
+Good day, guys! Hello and welcome to my second repository. As you know, I'm a huge football lover, and this quiz will test your knowledge of some fundamental common football information.
